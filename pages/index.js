@@ -20,7 +20,7 @@ export default function Home() {
         </div>
 
         <div className={styles.grid}>
-          <a href="https://portal.web3sdk.io/" className={styles.card}>
+          <a href="https://docs.web3sdk.io/" className={styles.card}>
             <h2>Portal &rarr;</h2>
             <p>
               Guides, references and resources that will help you build with
@@ -37,7 +37,7 @@ export default function Home() {
           </a>
 
           <a
-            href="https://portal.web3sdk.io/templates"
+            href="https://docs.web3sdk.io/templates"
             className={styles.card}
           >
             <h2>Templates &rarr;</h2>
